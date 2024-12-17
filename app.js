@@ -63,11 +63,11 @@ var htmlQuiz = {
     },
     {
       question: "Which tag is used for the largest heading in HTML?",
-      option1: "<h6>",
-      option2: "<h1>",
-      option3: "<head>",
-      option4: "<title>",
-      answer: "<h1>",
+      option1: "h6",
+      option2: "h1",
+      option3: "head",
+      option4: "title",
+      answer: "h1",
     },
     {
       question: "What is the purpose of CSS?",
